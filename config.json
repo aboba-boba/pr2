@@ -1,0 +1,6 @@
+{
+    "directories_to_backup": ["C:/path/to/source1", "C:/path/to/source2"],
+    "backup_destination": "C:/path/to/destination",
+    "backup_period": 3600,
+    "log_level": "INFO"
+}
